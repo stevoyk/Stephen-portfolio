@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Steve</a>
+  <a href="https://precious-crumble-87daa7.netlify.app" target="_blank">Steve</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
